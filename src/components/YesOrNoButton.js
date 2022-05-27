@@ -1,6 +1,4 @@
 import React from "react";
-import likeImg from "../images/like.png";
-import unlikeImg from "../images/unlike.png";
 
 class YesOrNoButton extends React.Component {
   handleClick = () => {
