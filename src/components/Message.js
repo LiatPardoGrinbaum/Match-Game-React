@@ -13,7 +13,7 @@ class Message extends React.Component {
       return (
         <div>
           <h2>Yeah! </h2>
-          <h2>You have a good taste. </h2>
+          <h2>You have a great taste. </h2>
         </div>
       );
     }
